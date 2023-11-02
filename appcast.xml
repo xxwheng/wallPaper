@@ -16,20 +16,16 @@
             </sparkle:deltas>
         </item>
         <item>
-            <title>1.3.2</title>
-            <pubDate>Thu, 02 Nov 2023 16:06:28 +0800</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="wallPaper_mac_gw_132.dmg" length="49956954" type="application/octet-stream" sparkle:edSignature="eTIXwWAFnkjd84DQzArAbTe0yc+vfI3HMJDdUXfJW2/kT70ovYMiw4ysaAsfhUsbBZfqfdaOQOvWw+BM2VdGBg=="/>
-        </item>
-        <item>
             <title>1.2.0</title>
             <pubDate>Thu, 02 Nov 2023 16:45:51 +0800</pubDate>
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/xxwheng/wallPaper/main/wallPaper_mac_gw_120.dmg" length="49353367" type="application/octet-stream" sparkle:edSignature="Fk6KyacwryOsgBhhYOIk8LtwMJB6NgVaRebTBS7EtHz5Wrl4XV8U0ZKYrstxjhaR8R/kZeNH1BVbHsU6nlW7Cg=="/>
+            <enclosure url="wallPaper_mac_gw_132.dmg" length="49355773" type="application/octet-stream" sparkle:edSignature="9nyM3PoBc80LdO7yizQ+IVpxW+Q25HNZZdf0y3W8oYW2K3jChVXJZZ3OzjAUQorujNOYokAEioshKKswFB+zAA=="/>
+            <sparkle:deltas>
+                <enclosure url="//%E9%A3%9E%E7%81%AB%E5%A3%81%E7%BA%B832-31.delta" sparkle:deltaFrom="31" length="15974543" type="application/octet-stream" sparkle:edSignature="P9mfUEiOVpH2LSGPmwC4Xvk5qsR2pBwns/UlE1gF4Xagzvk/om3MmMBTEPG2ntMrKhR2YM/2tL93UGyb7jCjDg=="/>
+                <enclosure url="//%E9%A3%9E%E7%81%AB%E5%A3%81%E7%BA%B832-29.delta" sparkle:deltaFrom="29" length="16618433" type="application/octet-stream" sparkle:edSignature="ogy8+X0aPc9n1oFzXA1+ZqaBKGoxJY0H7v+hRTxsQ+lgO5+CQbLdG6kgwAJa1Bixic3v2uW81zlQodST/BG4DQ=="/>
+            </sparkle:deltas>
         </item>
         <item>
             <title>1.1.0</title>
