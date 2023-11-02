@@ -1,29 +1,35 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>飞火壁纸</title>
         <item>
             <title>1.3.2</title>
-            <link>https://www.hfnuola.com</link>
-            <pubDate>1650436392</pubDate>
+            <pubDate>Thu, 02 Nov 2023 17:09:55 +0800</pubDate>
             <sparkle:version>38</sparkle:version>
             <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <description>&lt;p&gt;UI重构更新&lt;/p&gt;</description>
-            <enclosure url="wallPaper_mac_gw_132.dmg" length="49481807" type="application/octet-stream" sparkle:edSignature="rQfVhJxclzNt+6DoDJ/Cvuiu4ryOz//JtaLavoaqAOy3sbyBmAVY7Nktg30u/ML45Ahu3q5fFtGx7oG7XrzWBQ=="/>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xxwheng/wallPaper/main/wallPaper_mac_gw_132.dmg" length="49353272" type="application/octet-stream" sparkle:edSignature="Hj3S6E7+AV8kHFhprRGVffiARKj2ZNl1EnztknQ2wAUfN+/n9YW3tEqmcdBgjnWPULNNNegDoC8esueJB3khAQ=="/>
             <sparkle:deltas>
-                <enclosure url="//%E9%A3%9E%E7%81%AB%E5%A3%81%E7%BA%B838-32.delta" sparkle:deltaFrom="32" length="1152435" type="application/octet-stream" sparkle:edSignature="1x5NlQVQdzsN1wwzLfK2WRq4BVRp/Qx+YZehWkDxlWnUFZ+JM4w8H3+Cn0enkTKtbVuBqAL0eVee0XDXML+wBw=="/>
-                <enclosure url="//%E9%A3%9E%E7%81%AB%E5%A3%81%E7%BA%B838-31.delta" sparkle:deltaFrom="31" length="15980280" type="application/octet-stream" sparkle:edSignature="gCY/VoUP84Li2CoaAvToi6YAlCwwkFZFo0hztK8p6aKGC3Foodyu6N1l+hOQRT/8aKfVGE72y1IUFIK6CjAaAQ=="/>
-                <enclosure url="//%E9%A3%9E%E7%81%AB%E5%A3%81%E7%BA%B838-29.delta" sparkle:deltaFrom="29" length="16618743" type="application/octet-stream" sparkle:edSignature="8jdn0CfWOrP2L7Kqn76kaXgSd3Tyl7pdxpoQlBqgPaF4XEG+o6JgQD6b1qNXT9HhiXSyKj30h5qoPp3KuxVsAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/xxwheng/wallPaper/main/%E9%A3%9E%E7%81%AB%E5%A3%81%E7%BA%B838-32.delta" sparkle:deltaFrom="32" length="117530" type="application/octet-stream" sparkle:edSignature="3Mih18jwyTOenh2SoK/AeC2snbCh2zsfIOcHElgo1gYiPTkHDcpxiir5A9RlZXI4ttn2FYMlWAFvuOXSuskHAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xxwheng/wallPaper/main/%E9%A3%9E%E7%81%AB%E5%A3%81%E7%BA%B838-31.delta" sparkle:deltaFrom="31" length="15973349" type="application/octet-stream" sparkle:edSignature="oKlyZYfHkYiEFLLyVU5RiSS05WSqTZlU94y41zPMeKJC3fzIijn6SWlsS+ttkkOUjtGLe4l4342hzbQbrdisCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/xxwheng/wallPaper/main/%E9%A3%9E%E7%81%AB%E5%A3%81%E7%BA%B838-29.delta" sparkle:deltaFrom="29" length="16618618" type="application/octet-stream" sparkle:edSignature="nTaXbfDwHSP06MQhiOPUa21PR2q61ypd+6ifDnd3iZynpmh50SrDqhkwVnMO505eWiMMJvx1BLQic1D6lqIBBw=="/>
             </sparkle:deltas>
         </item>
         <item>
+            <title>1.3.2</title>
+            <pubDate>Thu, 02 Nov 2023 16:06:28 +0800</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="wallPaper_mac_gw_132.dmg" length="49956954" type="application/octet-stream" sparkle:edSignature="eTIXwWAFnkjd84DQzArAbTe0yc+vfI3HMJDdUXfJW2/kT70ovYMiw4ysaAsfhUsbBZfqfdaOQOvWw+BM2VdGBg=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
-            <pubDate>Thu, 02 Nov 2023 11:00:15 +0800</pubDate>
+            <pubDate>Thu, 02 Nov 2023 16:45:51 +0800</pubDate>
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/xxwheng/wallPaper/main/wallPaper_mac_gw_120.dmg" length="49355814" type="application/octet-stream" sparkle:edSignature="qzrTiWDVqKtQkJuFxCFj2f3+J7l/F9GVWyv8u34kEgKofiXtz0usgg7Vp+/Vg03yEOK4rIA/T6VSY2v0ykB1BQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/xxwheng/wallPaper/main/wallPaper_mac_gw_120.dmg" length="49353367" type="application/octet-stream" sparkle:edSignature="Fk6KyacwryOsgBhhYOIk8LtwMJB6NgVaRebTBS7EtHz5Wrl4XV8U0ZKYrstxjhaR8R/kZeNH1BVbHsU6nlW7Cg=="/>
         </item>
         <item>
             <title>1.1.0</title>
@@ -32,14 +38,6 @@
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="WallPaper_mac_gw_1.1.0.dmg" length="47659560" type="application/octet-stream" sparkle:edSignature="AfsICXSLj49L2JRUsSKlv6hCbZR2Ka3XMYQhfdHDfDJzQ5rsOr2Vs1gwY4JFw1gr02M0+gaWo5QZKrhDvCxFBA=="/>
-        </item>
-        <item>
-            <title>1.2.0</title>
-            <pubDate>Thu, 02 Nov 2023 10:34:25 +0800</pubDate>
-            <sparkle:version>30</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="wallPaper_mac_gw_120.dmg" length="49762518" type="application/octet-stream" sparkle:edSignature="EpbhWZU/wkfx6LajQyTNqkGrGXdjGFPr/5IUmwHKUqpO5Sr5jp6NyN+edniTbCWWwod396DAu0NgfYMOOZFgBA=="/>
         </item>
         <item>
             <title>1.0.9</title>
