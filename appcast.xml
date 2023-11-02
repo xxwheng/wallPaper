@@ -23,7 +23,7 @@
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="wallPaper_mac_gw_120.dmg" length="49481779" type="application/octet-stream" sparkle:edSignature="Cc5U3PMhmaDOLbv4EHiuva2p2qnzIizmMp0Lr3dRIrSFI7S48mF4OfbHY27YJQwoRJHTVNW+wzARICu0KnnBBA=="/>
+            <enclosure url="https://raw.githubusercontent.com/xxwheng/wallPaper/main/wallPaper_mac_gw_120.dmg" length="49355814" type="application/octet-stream" sparkle:edSignature="qzrTiWDVqKtQkJuFxCFj2f3+J7l/F9GVWyv8u34kEgKofiXtz0usgg7Vp+/Vg03yEOK4rIA/T6VSY2v0ykB1BQ=="/>
         </item>
         <item>
             <title>1.1.0</title>
